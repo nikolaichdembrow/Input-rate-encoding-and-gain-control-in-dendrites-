@@ -12,7 +12,7 @@ Usage guide:
 To utilize this code, you need IgorPro 6 or later, and Matlab 2012b or later. Generate stimulation patterns in Matlab using "IPT_forModel.m", which are saved as StimRun.txt (stimulation times and spine number stimulated) as well as FreqOut.txt (the mean rate generated) files. Import these into IgorPro, along with the Igor procedure file "Simple_InputRate_to_Voltage_Model_andAnalysis.ipf". Execute this procedure to generate the simple model output.
 
 
-Feedback
+Feedback:
 We welcome and encourage feedback on this code. Any improvements/challenges that you encounter can help us to develop better versions of this simple code.
 
 Kindly cite our Cell Reports paper if you use this code (even portions of it) in your work.
