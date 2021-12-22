@@ -1,3 +1,24 @@
+  License for Input-rate-encoding-and-gain-control-in-dendrites:
+  These functions are copyright (2021) by Nikolai C. Dembrow and William J. Spain
+  and are distributed under the terms of the GNU General Public
+  License (GPL) version 3 (or later). See below for details.
+
+A brief overview of this (for quick summary, be sure to read details below for 
+legally binding specifics) is that everyone is free to use these functions, to modify
+and to redistribute them and on a free basis. These functions are not in the
+public domain; they are copyrighted and there are restrictions on their 
+distribution (see the license). For example, you cannot integrate these
+functions(in full or in parts) in any closed-source software you plan to 
+distribute(commercially or not). Please contact us for more information.
+
+Contact:
+ndembrow@uw.edu 
+
+Third party software:
+Our code relies on using IgorPro and Matlab that is not under the terms of the 
+GNU General Public License (GPL) version 3 (or later). 
+
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
